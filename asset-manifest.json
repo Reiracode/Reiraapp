@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-hooks/static/css/main.4e8b921a.chunk.css",
-    "main.js": "/react-hooks/static/js/main.762740b9.chunk.js",
-    "main.js.map": "/react-hooks/static/js/main.762740b9.chunk.js.map",
-    "runtime~main.js": "/react-hooks/static/js/runtime~main.401931f5.js",
-    "runtime~main.js.map": "/react-hooks/static/js/runtime~main.401931f5.js.map",
-    "static/css/2.700f80b7.chunk.css": "/react-hooks/static/css/2.700f80b7.chunk.css",
-    "static/js/2.4ff0bd7a.chunk.js": "/react-hooks/static/js/2.4ff0bd7a.chunk.js",
-    "static/js/2.4ff0bd7a.chunk.js.map": "/react-hooks/static/js/2.4ff0bd7a.chunk.js.map",
-    "index.html": "/react-hooks/index.html",
-    "precache-manifest.ce669de00922739222f654d846c744f4.js": "/react-hooks/precache-manifest.ce669de00922739222f654d846c744f4.js",
-    "service-worker.js": "/react-hooks/service-worker.js",
-    "static/css/2.700f80b7.chunk.css.map": "/react-hooks/static/css/2.700f80b7.chunk.css.map",
-    "static/css/main.4e8b921a.chunk.css.map": "/react-hooks/static/css/main.4e8b921a.chunk.css.map"
+    "main.css": "/reiraapp/static/css/main.4e8b921a.chunk.css",
+    "main.js": "/reiraapp/static/js/main.762740b9.chunk.js",
+    "main.js.map": "/reiraapp/static/js/main.762740b9.chunk.js.map",
+    "runtime~main.js": "/reiraapp/static/js/runtime~main.01f5a91f.js",
+    "runtime~main.js.map": "/reiraapp/static/js/runtime~main.01f5a91f.js.map",
+    "static/css/2.700f80b7.chunk.css": "/reiraapp/static/css/2.700f80b7.chunk.css",
+    "static/js/2.4ff0bd7a.chunk.js": "/reiraapp/static/js/2.4ff0bd7a.chunk.js",
+    "static/js/2.4ff0bd7a.chunk.js.map": "/reiraapp/static/js/2.4ff0bd7a.chunk.js.map",
+    "index.html": "/reiraapp/index.html",
+    "precache-manifest.359661a1401edc5aba5de5f5ef9cc383.js": "/reiraapp/precache-manifest.359661a1401edc5aba5de5f5ef9cc383.js",
+    "service-worker.js": "/reiraapp/service-worker.js",
+    "static/css/2.700f80b7.chunk.css.map": "/reiraapp/static/css/2.700f80b7.chunk.css.map",
+    "static/css/main.4e8b921a.chunk.css.map": "/reiraapp/static/css/main.4e8b921a.chunk.css.map"
   }
 }
