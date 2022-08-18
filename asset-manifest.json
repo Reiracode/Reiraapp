@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/reiraapp/static/css/main.4e8b921a.chunk.css",
-    "main.js": "/reiraapp/static/js/main.762740b9.chunk.js",
-    "main.js.map": "/reiraapp/static/js/main.762740b9.chunk.js.map",
+    "main.css": "/reiraapp/static/css/main.4b5dfc6f.chunk.css",
+    "main.js": "/reiraapp/static/js/main.db1e5065.chunk.js",
+    "main.js.map": "/reiraapp/static/js/main.db1e5065.chunk.js.map",
     "runtime~main.js": "/reiraapp/static/js/runtime~main.01f5a91f.js",
     "runtime~main.js.map": "/reiraapp/static/js/runtime~main.01f5a91f.js.map",
     "static/css/2.700f80b7.chunk.css": "/reiraapp/static/css/2.700f80b7.chunk.css",
-    "static/js/2.4ff0bd7a.chunk.js": "/reiraapp/static/js/2.4ff0bd7a.chunk.js",
-    "static/js/2.4ff0bd7a.chunk.js.map": "/reiraapp/static/js/2.4ff0bd7a.chunk.js.map",
+    "static/js/2.65e7d7ab.chunk.js": "/reiraapp/static/js/2.65e7d7ab.chunk.js",
+    "static/js/2.65e7d7ab.chunk.js.map": "/reiraapp/static/js/2.65e7d7ab.chunk.js.map",
     "index.html": "/reiraapp/index.html",
-    "precache-manifest.359661a1401edc5aba5de5f5ef9cc383.js": "/reiraapp/precache-manifest.359661a1401edc5aba5de5f5ef9cc383.js",
+    "precache-manifest.f6c8ede365ac5391baffe951bdd20d0d.js": "/reiraapp/precache-manifest.f6c8ede365ac5391baffe951bdd20d0d.js",
     "service-worker.js": "/reiraapp/service-worker.js",
     "static/css/2.700f80b7.chunk.css.map": "/reiraapp/static/css/2.700f80b7.chunk.css.map",
-    "static/css/main.4e8b921a.chunk.css.map": "/reiraapp/static/css/main.4e8b921a.chunk.css.map"
+    "static/css/main.4b5dfc6f.chunk.css.map": "/reiraapp/static/css/main.4b5dfc6f.chunk.css.map"
   }
 }
