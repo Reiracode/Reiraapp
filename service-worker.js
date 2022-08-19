@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Reiraapp/precache-manifest.ab3d0614cd2910ecae171d3658d47552.js"
+  "/Reiraapp/precache-manifest.88071c94879fdcfa6ba99a655c51bd34.js"
 );
 
 self.addEventListener('message', (event) => {
