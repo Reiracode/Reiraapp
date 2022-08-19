@@ -1,6 +1,6 @@
 import React from 'react';
 import Banner from './banner';
-import "./views.css"
+// import "./views.css"
 import { Outlet } from "react-router-dom";
 
 function MainView() {

@@ -1,5 +1,5 @@
 import React from "react";
- 
+
 
 function Banner() {
   const socials = [
@@ -26,7 +26,7 @@ function Banner() {
   return (
     <div>
       <div className="banner">
-       
+
         {SocialComp}
       </div>
     </div>

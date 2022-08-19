@@ -33,7 +33,7 @@ function Home() {
       "url2": "https://github.com/mramirez0610/portfolio"
     }
   ]
- 
+
 
   const projectList = projects.map((p) => (
     <div className="card" key={p.id}>
@@ -44,7 +44,7 @@ function Home() {
     </div>
   ));
 
- 
+
   return (
     <div className="container">
       {projectList}

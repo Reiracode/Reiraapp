@@ -8,7 +8,6 @@ function About() {
         <div className='card'>
           <h1 className='heading'>about me</h1>
         </div>
-
       </div> */}
     </div>
   );
