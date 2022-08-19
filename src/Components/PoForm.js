@@ -9,7 +9,7 @@ import OpenModal from "./tools/OpenModal";
 
 // import OrderNo from "./tools/OrderNo";
 import OrderNo from "./tools/OrderNo_new";
-
+import OrderNo_radio from "./tools/OrderNo_radio";
 // import OrderNo from "./tools/OrderNo_new1";
 
 import singleton from "../Singleton";
@@ -327,8 +327,12 @@ const PoForm = () => {
 
                   <div className="input-group-append">
                     <OrderNo value={orderNo} />
+                    {/* <OrderNo_radio value={orderNo} /> */}
                   </div>
-
+                  <div className="input-group-append">
+                    
+                    <OrderNo_radio value={orderNo} />
+                  </div>
                 </div>
               </div>
             </div>

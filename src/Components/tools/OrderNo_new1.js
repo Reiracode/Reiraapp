@@ -160,14 +160,6 @@ const OrderNo = (props) => {
   useEffect(() => {
     getData();
   }, []);
-
-  // const data = React.useMemo(() => makeData(10), []);
-//   const data = [{ id: 7, first_name: 'Michael', last_name: 'Lawson' },
-//  { id: 8, first_name: 'Lindsay', last_name: 'Ferguson' },
-//  { id: 9, first_name: 'Tobias', last_name: 'Funke' },
-//  { id: 10, first_name: 'Byron', last_name: 'Fields' },
-//  { id: 11, first_name: 'George', last_name: 'Edwards' },
-//     { id: 12, first_name: 'Rachel', last_name: 'Howell' }]
   
   const [selectedRows, setSelectedRows] = useState({  });
 
@@ -220,8 +212,6 @@ const OrderNo = (props) => {
       ) : null}
     </>
   );
-
-
 }
 
 export default OrderNo;

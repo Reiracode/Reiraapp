@@ -1,5 +1,5 @@
 import React from 'react';
-import { Routes, Route, BrowserRouter } from 'react-router-dom';
+import { Routes, Route, BrowserRouter ,HashRouter } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style/index.scss';
 import About from './Components/about/About';
@@ -20,38 +20,38 @@ const App = () => {
   return (
     <div className="App">
       <div className="page">
-        <BrowserRouter>
+        {/* <BrowserRouter> */}
+        <HashRouter>
           <AuthProvider>
             <Header />
-            {/* <Routes>
-              <Route path="/login" component={Login} />
-              <PrivateRoute path="/PoForm" component={PoForm} />
-              <PrivateRoute path="/PrForm" component={PrForm} />
-              <PrivateRoute path="/about" component={About} />
-              <PrivateRoute path="/Inbox" component={Inbox} />
-              <Route path="/*" component={PageNotFound} />
-            </Routes> */}
-
             <Routes>  
-              <Route path="/Login" element={<Login />} />
+              <Route path="/" element={<Login />} />
               <Route  path='/' element={<PrivateRoute />}> 
                 <Route path="/PrForm" element={<PrForm />} />
                 <Route path="/PoForm" element={<PoForm />} /> 
                 <Route path="/About" element={<About />} />
                 <Route path="/Inbox" element={<Inbox />} />
               </Route>
-
-              {/* <Route path="/PrForm" element={<PrivateRoute Component={PrForm} />} />
-              <Route path="/PoForm" element={<PrivateRoute Component={PoForm} />} />
-              <Route path="/About" element={<PrivateRoute Component={About} />} /> */}
               <Route path="*" element={<PageNotFound />} />
             </Routes>
-        
-
-
-            
           </AuthProvider>
-        </BrowserRouter>
+        </HashRouter> 
+
+        {/* <Route path="/" element={<Home />}></Route>
+        <Route path="/about" element={<About />}></Route>
+        <Route path="/project" element={<Project />}></Route>
+        <Route path="/contact" element={<Contact />}></Route> */}
+        {/* </BrowserRouter> */}
+
+        {/* <BrowserRouter>
+          <Routes>
+            <Route path='/' element={<Login />}>
+              <Route index element={<Login />} />
+              <Route path='/PrForm' element={<PrForm />} />
+              <Route path='/PoForm' element={<PoForm />} />
+            </Route>
+          </Routes>
+        </BrowserRouter> */}
       </div>
     </div>
   );
