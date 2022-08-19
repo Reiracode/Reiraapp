@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Reiraapp/static/css/main.4b5dfc6f.chunk.css",
-    "main.js": "/Reiraapp/static/js/main.0cd90ccb.chunk.js",
-    "main.js.map": "/Reiraapp/static/js/main.0cd90ccb.chunk.js.map",
-    "runtime~main.js": "/Reiraapp/static/js/runtime~main.71b871ee.js",
-    "runtime~main.js.map": "/Reiraapp/static/js/runtime~main.71b871ee.js.map",
-    "static/css/2.700f80b7.chunk.css": "/Reiraapp/static/css/2.700f80b7.chunk.css",
-    "static/js/2.6f20bfdc.chunk.js": "/Reiraapp/static/js/2.6f20bfdc.chunk.js",
-    "static/js/2.6f20bfdc.chunk.js.map": "/Reiraapp/static/js/2.6f20bfdc.chunk.js.map",
-    "index.html": "/Reiraapp/index.html",
-    "precache-manifest.f05cce6130c6f6f5c0ecfdfca559ca1c.js": "/Reiraapp/precache-manifest.f05cce6130c6f6f5c0ecfdfca559ca1c.js",
-    "service-worker.js": "/Reiraapp/service-worker.js",
-    "static/css/2.700f80b7.chunk.css.map": "/Reiraapp/static/css/2.700f80b7.chunk.css.map",
-    "static/css/main.4b5dfc6f.chunk.css.map": "/Reiraapp/static/css/main.4b5dfc6f.chunk.css.map"
+    "main.css": "/reiraapp/static/css/main.b004270e.chunk.css",
+    "main.js": "/reiraapp/static/js/main.3401249b.chunk.js",
+    "main.js.map": "/reiraapp/static/js/main.3401249b.chunk.js.map",
+    "runtime~main.js": "/reiraapp/static/js/runtime~main.c0980f70.js",
+    "runtime~main.js.map": "/reiraapp/static/js/runtime~main.c0980f70.js.map",
+    "static/css/2.700f80b7.chunk.css": "/reiraapp/static/css/2.700f80b7.chunk.css",
+    "static/js/2.57459bc0.chunk.js": "/reiraapp/static/js/2.57459bc0.chunk.js",
+    "static/js/2.57459bc0.chunk.js.map": "/reiraapp/static/js/2.57459bc0.chunk.js.map",
+    "index.html": "/reiraapp/index.html",
+    "precache-manifest.7e0075d109f0834756cb8dedada479dc.js": "/reiraapp/precache-manifest.7e0075d109f0834756cb8dedada479dc.js",
+    "service-worker.js": "/reiraapp/service-worker.js",
+    "static/css/2.700f80b7.chunk.css.map": "/reiraapp/static/css/2.700f80b7.chunk.css.map",
+    "static/css/main.b004270e.chunk.css.map": "/reiraapp/static/css/main.b004270e.chunk.css.map"
   }
 }
