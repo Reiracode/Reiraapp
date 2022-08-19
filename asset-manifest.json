@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Reiraapp/static/css/main.4b5dfc6f.chunk.css",
-    "main.js": "/Reiraapp/static/js/main.20bec8a4.chunk.js",
-    "main.js.map": "/Reiraapp/static/js/main.20bec8a4.chunk.js.map",
+    "main.js": "/Reiraapp/static/js/main.6a823b1c.chunk.js",
+    "main.js.map": "/Reiraapp/static/js/main.6a823b1c.chunk.js.map",
     "runtime~main.js": "/Reiraapp/static/js/runtime~main.b80bb310.js",
     "runtime~main.js.map": "/Reiraapp/static/js/runtime~main.b80bb310.js.map",
     "static/css/2.700f80b7.chunk.css": "/Reiraapp/static/css/2.700f80b7.chunk.css",
     "static/js/2.a5752870.chunk.js": "/Reiraapp/static/js/2.a5752870.chunk.js",
     "static/js/2.a5752870.chunk.js.map": "/Reiraapp/static/js/2.a5752870.chunk.js.map",
     "index.html": "/Reiraapp/index.html",
-    "precache-manifest.5549f2718c5cc62decb4d184fca894be.js": "/Reiraapp/precache-manifest.5549f2718c5cc62decb4d184fca894be.js",
+    "precache-manifest.225ad3ba39ef6d1d2df50a7c0fc1bb62.js": "/Reiraapp/precache-manifest.225ad3ba39ef6d1d2df50a7c0fc1bb62.js",
     "service-worker.js": "/Reiraapp/service-worker.js",
     "static/css/2.700f80b7.chunk.css.map": "/Reiraapp/static/css/2.700f80b7.chunk.css.map",
     "static/css/main.4b5dfc6f.chunk.css.map": "/Reiraapp/static/css/main.4b5dfc6f.chunk.css.map"
