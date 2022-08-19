@@ -1,7 +1,8 @@
 {
-  "name": "react-hooks",
+  "name": "reiraapp",
   "version": "0.1.1",
   "private": true,
+  "homepage": "https://reiracode.github.io/reiraapp",
   "dependencies": {
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
@@ -30,6 +31,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "homepage": "https://reiracode.github.io/Reiraapp/"
+  ]
+ 
 }

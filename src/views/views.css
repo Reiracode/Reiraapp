@@ -1,0 +1,110 @@
+/* =============
+Table of Contents:
+1. Main styles
+2. Home styles
+3. About styles
+4. Resume styles
+5. Webkit Scrollbar
+============= */
+
+/* 1. Main styles */
+.mainView {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container {
+  padding-top: 6ch;
+  display: inline-block;
+  height: 100%;
+  text-align: left;
+  width: 80ch;
+  overflow: visible;
+}
+
+@media screen and (max-width: 640px) {
+  .container {
+    max-width: min(95vw, 65ch);
+  }
+
+  ;
+
+  .text-container {
+    max-width: fit-content;
+  }
+}
+
+.text-container {
+  float: left;
+  line-height: 1.5;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  font-family: 'Mulish', sans-serif;
+  word-break: normal;
+}
+
+/* 2. Home styles */
+@keyframes appear {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 100;
+  }
+}
+
+.card {
+  animation: 0.4s ease-out 0s 1 appear;
+  border: 1px solid rgb(0, 0, 0, 0.6);
+  background-color: #E9E9E9;
+  border-radius: 6ch;
+  padding: 3ch;
+  display: block;
+  margin-bottom: 5ch;
+  transition: 300ms;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15),
+    0 2px 2px rgba(0, 0, 0, 0.15),
+    0 4px 4px rgba(0, 0, 0, 0.15),
+    0 8px 8px rgba(0, 0, 0, 0.15);
+}
+
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15),
+    0 2px 4px rgba(0, 0, 0, 0.15),
+    0 4px 8px rgba(0, 0, 0, 0.15),
+    0 8px 16px rgba(0, 0, 0, 0.15),
+    0 16px 32px rgba(0, 0, 0, 0.15);
+}
+
+a {
+  color: #888
+}
+
+/* 3. About styles */
+.heading {
+  color: #3D3B3C;
+}
+
+/* 4. Resume Styles*/
+.resume-link {
+  text-align: center;
+}
+
+/* 5. Webkit Scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #666;
+}
