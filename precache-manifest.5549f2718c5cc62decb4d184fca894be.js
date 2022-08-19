@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ba35160c705a1bad11463bac1b85c05",
+    "revision": "0d5fcbb4d5e7fe6398528cc57fd4e7e5",
     "url": "/Reiraapp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Reiraapp/static/css/2.700f80b7.chunk.css"
   },
   {
-    "revision": "625e7cd2a91a991671ac",
+    "revision": "5ec89247316b621cbfcb",
     "url": "/Reiraapp/static/css/main.4b5dfc6f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Reiraapp/static/js/2.a5752870.chunk.js"
   },
   {
-    "revision": "625e7cd2a91a991671ac",
-    "url": "/Reiraapp/static/js/main.5afae316.chunk.js"
+    "revision": "5ec89247316b621cbfcb",
+    "url": "/Reiraapp/static/js/main.20bec8a4.chunk.js"
   },
   {
     "revision": "d05d1224115234f12bb2",
